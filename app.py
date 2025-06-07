@@ -1,4 +1,5 @@
 # app.py
+
 from flask import Flask, request, jsonify, render_template
 from db_utils import connect_db
 from chatbot_rules import get_hr_response
