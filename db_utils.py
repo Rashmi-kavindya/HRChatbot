@@ -9,3 +9,4 @@ def connect_db():
         password="",
         database="hr_system"
     )
+
