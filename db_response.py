@@ -7,7 +7,6 @@ JOIN_DATE_KEYWORDS = ["joined", "joining date", "date of join", "join date", "my
 DEPARTMENT_KEYWORDS = ["department", "dept"]
 ROLE_KEYWORDS = ["role", "my role", "position", "postion"]
 SPOUSE_KEYWORDS = ["wife", "husband", "spouse", "hasbund"]
-# ADDRESS_KEYWORDS = ["address", "home"]
 CONTACT_KEYWORDS = ["contact", "phone", "mobile"]
 
 def normalize_input(user_input):
